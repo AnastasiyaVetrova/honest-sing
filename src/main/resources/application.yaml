@@ -1,0 +1,6 @@
+server:
+  port: 8080
+bucket-settings:
+  capacity: 3
+  tokens: 2
+  time: 1
